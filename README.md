@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @GPla
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi there 👋
 
-<!---
-GPla/GPla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#### I'm a Data Science Student in Braunschweig, Germany.
+
+##### BIO
+
+- 🏢 I'm currently working at **Phoenix Contact Electronics**
+- ⚙️ I use daily: `.py`, `.yaml`
